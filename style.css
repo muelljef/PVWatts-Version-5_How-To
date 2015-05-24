@@ -1,0 +1,58 @@
+html, head, body, div, p {
+    color: darkgray;
+    background-color: darkslategray;
+}
+
+a {
+    color: cyan;
+    font-size: 22pt;
+}
+
+a:hover {
+    color: white;
+}
+
+div {
+    font-size: 22pt;
+}
+
+#parts {
+    width: 516px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-radius: 1em;
+    padding: 4px;
+}
+
+#parts > p {
+    text-align: center;
+}
+
+#content, #prevNext {
+    width: 516px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 22pt;
+}
+
+#prevNext {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#next, #prev {
+    border: solid;
+    border-radius: 0.5em;
+    display: inline-block;
+    width: 248px;
+    text-align: center;
+}
+
+#next > a, #prev > a {
+    text-align: center;
+}
+
+#heading1 {
+    text-align: center;
+}
