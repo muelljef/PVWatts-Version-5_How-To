@@ -6,7 +6,7 @@
  * Time: 3:08 PM
  */
 ?>
-<p><strong>Jump to Section</strong><p>
+<h3>Jump to Section</h3>
 <ol>
     <li><a href="index.php">Introduction</a>
     <li><a href="apiKey.php">Obtaining an API Key</a>

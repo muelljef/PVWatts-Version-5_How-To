@@ -20,18 +20,18 @@
         <p>by Jeff Mueller</p>
     </div>
     <div id="content">
-        <p> First, in order to use the API you must have a key. It is free and pretty easy to obtain an API key. Just visit the
-            following site and enter your first name last name, email address, and website you will use the key with.
-            It is emailed to you straight away. Plus it will allow you access to many more US government API's if you are
-            interested.
+        <p> First, in order to use the API you must have a key. It is free and pretty easy to obtain an API key. Just visit this site
+            <a href="https://api.data.gov/signup/">API DATA.GOV Sign-up</a> and enter your first name last name, email address,
+            and website you will use the key with. The key is given to you right away as well as emailed. The key will also allow you access to
+            many more US government API's if you are interested.
         </p>
+        <p><img src="API_key_signup.png"></p>
         <p>
-            I was able to get a key for my intended website, then created and edit the webpage examples on a local host.
-            If you don't have a website, there are a lot of free website builders if you just type in 'free website' in a
+            A note on having to include a website: I was able to get a key for my intended website. I was able to then use the key with examples on a local host
+            before uploading to the website. So you can use the key for testing phases without having to use it through a
+            live website. If you don't have a website, there are a lot of free website builders if you just type in 'free website' in a
             search many will come up. This will allow you to get started with the API without having to pay anything.
         </p>
-        <a href="https://api.data.gov/signup/">API DATA.GOV Sign-up</a>
-        <p><img src="API_key_signup.png"></p>
     </div>
     <div id="prevNext">
         <div id="prev"><a href="index.php">PREV</a></div>

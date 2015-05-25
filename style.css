@@ -3,24 +3,22 @@ html, head, body, div, p {
     background-color: darkslategray;
 }
 
+a, div, p {
+    font-size: 18pt;
+}
+
 a {
     color: cyan;
-    font-size: 22pt;
 }
 
 a:hover {
     color: white;
 }
 
-div {
-    font-size: 22pt;
-}
-
-#content, #prevNext, #parts {
+#content, #prevNext, #parts, .contents {
     width: 678px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 22pt;
 }
 
 #parts {
@@ -56,4 +54,32 @@ div {
 
 img {
     width: 100%;
+}
+
+.inlineResults > p {
+    color: lime;
+}
+
+.code {
+    color: floralwhite;
+    background-color: black;
+    width: 67%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: scroll;
+    max-height: 1000px;
+
+}
+
+.results {
+    width: 67%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: scroll;
+    max-height: 1000px;
+}
+
+h3 {
+    color: white;
 }

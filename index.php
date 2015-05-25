@@ -22,10 +22,13 @@
     <div id="content">
         <p> The NREL (National Renewable Energy Lab) PVWatts API estimates the energy production for a potential
             residential or small commercial solar PV system. You need to specify a number of details related to the
-            system which I intend to explain in my how to guide.
+            system. This guide will show how to get results for a specific example using PHP and cURL. In my guide I will
+            go into some detail about the required parameters to give guidance on why I picked certain aspects for my
+            example and what some of the other options are so that you can pick the right details.
         </p>
-        <p><a href="https://developer.nrel.gov/docs/solar/pvwatts-v5/">PVWatts API Documentation</a></p>
-        <p> Reference API document website and NSRDB as source for info</p>
+        <p>The PVWatts API documenation can be found at this website
+            <a href="https://developer.nrel.gov/docs/solar/pvwatts-v5/">PVWatts API Documentation</a>
+        </p>
     </div>
     <div id="prevNext">
         <div id="prev">PREV</div>
