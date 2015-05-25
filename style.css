@@ -16,10 +16,14 @@ div {
     font-size: 22pt;
 }
 
-#parts {
-    width: 516px;
+#content, #prevNext, #parts {
+    width: 678px;
     margin-left: auto;
     margin-right: auto;
+    font-size: 22pt;
+}
+
+#parts {
     border: solid;
     border-radius: 1em;
     padding: 4px;
@@ -27,13 +31,6 @@ div {
 
 #parts > p {
     text-align: center;
-}
-
-#content, #prevNext {
-    width: 516px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 22pt;
 }
 
 #prevNext {
@@ -45,7 +42,7 @@ div {
     border: solid;
     border-radius: 0.5em;
     display: inline-block;
-    width: 248px;
+    width: 329px;
     text-align: center;
 }
 
@@ -55,4 +52,8 @@ div {
 
 #heading1 {
     text-align: center;
+}
+
+img {
+    width: 100%;
 }

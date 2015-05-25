@@ -8,7 +8,9 @@
 ?>
 <p><strong>Jump to Section</strong><p>
 <ol>
-<li><a href="index.php">Introduction</a>
-<li><a href="apiKey.php">Obtaining an API Key</a>
-<li><a href="basic.php">A Basic Example</a>
+    <li><a href="index.php">Introduction</a>
+    <li><a href="apiKey.php">Obtaining an API Key</a>
+    <li><a href="example.php">A Quick Example</a>
+    <li><a href="variablesOne.php">Variables Page 1</a> </li>
+    <li><a href="variablesTwo.php">Variables Page 2</a> </li>
 </ol>
